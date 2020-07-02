@@ -1,0 +1,1 @@
+del C:\Users\lcp\AppData\Local\Android\flutter\bin\cache\lockfile
